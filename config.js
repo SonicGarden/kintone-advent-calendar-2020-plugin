@@ -11,7 +11,7 @@ jQuery.noConflict();
 
   var terms = {
     'ja': {
-      'checkValue_label': '値変更後入力チェック',
+      'checkValue_label': '値変更後の入力チェック',
       'checkValue_checkbox': '値変更後に入力チェックを行う場合はチェックしてください。',
       'checkValue_zip_label': '郵便番号をチェックするフィールド',
       'checkValue_zip_field': '郵便番号のチェックを行うフィールドを選択してください。',
